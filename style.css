@@ -13,6 +13,7 @@ body
 {
 display:grid;
 grid-template-columns: 33% 33% 33%;
+ border-radius:5px;
 width:65%;
 height:60%;
 position:absolute;
