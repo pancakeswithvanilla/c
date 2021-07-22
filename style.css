@@ -39,7 +39,8 @@ border-radius:20px 0px 0px 20px;
    
    font-family: 'Big Shoulders Display'; 
    padding-bottom:10%;
-   font-size:30px;
+   font-size:40px;
+   color:white;
    letter-spacing: 2px;
 }
 .title-suvs, .title-sedans, .title-luxury,.suvs-images, .luxury-images, .sedans-images, button
